@@ -2,7 +2,7 @@
 import type {
   LecturerRow,
   LecturerSummary,
-  StudentBimbinganRow,
+  // StudentBimbinganRow,
 } from './data/lecturerQuotaTypes';
 import { LecturerQuotaSummaryCards } from './features/LecturerQuotaSummaryCards';
 import { LecturerQuotaFilterBar } from './features/LecturerQuotaFilterBar';
