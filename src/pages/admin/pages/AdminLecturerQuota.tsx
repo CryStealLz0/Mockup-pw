@@ -56,24 +56,24 @@ const mockSummary: LecturerSummary = {
   totalSisaKapasitas: 82,
 };
 
-const mockStudents: StudentBimbinganRow[] = [
-  {
-    nama: 'Alya Putri',
-    nim: '221011400212',
-    prodi: 'Farmasi',
-    topik: 'Evaluasi penggunaan antibiotik',
-    statusLabel: 'Aktif',
-    statusVariant: 'aktif',
-  },
-  {
-    nama: 'Bima Santoso',
-    nim: '221011400198',
-    prodi: 'Farmasi',
-    topik: 'Kajian drug related problems',
-    statusLabel: 'Draft Proposal',
-    statusVariant: 'draft',
-  },
-];
+// const mockStudents: StudentBimbinganRow[] = [
+//   {
+//     nama: 'Alya Putri',
+//     nim: '221011400212',
+//     prodi: 'Farmasi',
+//     topik: 'Evaluasi penggunaan antibiotik',
+//     statusLabel: 'Aktif',
+//     statusVariant: 'aktif',
+//   },
+//   {
+//     nama: 'Bima Santoso',
+//     nim: '221011400198',
+//     prodi: 'Farmasi',
+//     topik: 'Kajian drug related problems',
+//     statusLabel: 'Draft Proposal',
+//     statusVariant: 'draft',
+//   },
+// ];
 
 export default function AdminLecturerQuota() {
   const selected = mockLecturers[0];

@@ -1,5 +1,4 @@
 // src/pages/admin/AdminHome.tsx
-import React from 'react';
 import type {
   QueueStats,
   UserStats,
